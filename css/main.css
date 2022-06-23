@@ -1,12 +1,12 @@
 .content{
     width: 800px;
-    height: 720px;
+    height: 750px;
     background: #12c2e9;
     background: -webkit-linear-gradient(to right, #12c2e9, yellow, #f64f59);
     background: linear-gradient(to right, #12c2e9, yellow, #f64f59);
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
+    margin-top: 50px;
     margin-bottom: auto;
 }
 .container{
@@ -35,4 +35,3 @@ header{
                  5px 5px 2px red,    
                  8px 8px 3px yellow;
 }
-@media(max-width: 767px){}
